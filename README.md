@@ -1,5 +1,10 @@
 ### Приветствую на моем профиле👋
-###    ![Profile views](https://gpvc.arturio.dev/PechenkaPM)
+### ![Profile views](https://gpvc.arturio.dev/PechenkaPM)
+
+## У меня есть соц.сети для связи:
+- <a href="https://t.me/extinqued"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram - @extinqued</a>
+- <a href="https://vk.com/vovan446"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png" width=16 height=16 /> VK - @vovan446</a>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_brands_discord_color.svg" width=16 height=16 /> Discord - @PechenkaPM#6565</a>
 
 <!--
 **PechenkaPM/PechenkaPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
